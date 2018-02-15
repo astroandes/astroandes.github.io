@@ -1,0 +1,50 @@
+title: ASTROANDES
+description: Website for the computational astrophysics research group from Universidad de los Andes (Colombia)
+author: AstroAndes
+github: https://github.com/astroandes
+about: Website for the computational astrophysics research group from Universidad de los Andes (Colombia)
+disqus_shortname: astroandes
+avatar_url: /static/img/avatar.jpg
+
+enableTags: true
+tagarray: []
+
+collections:
+  project:
+    output: true
+    permalink: /project/:path/
+
+social:
+    - icon: fa-facebook
+      link: "#"
+    - icon: fa-twitter
+      link: "https://twitter.com/agusmakmun6"
+    - icon: fa-linkedin
+      link: "https://www.linkedin.com/in/summonagus"
+    - icon: fa-stack-exchange
+      link: "#"
+    - icon: fa-github
+      link: "https://github.com/astroandes"
+
+urls:
+    - text: Members
+      url: /about/
+    - text: Projects
+      url: /projects/
+    - text: XML Feed
+      url: /feed.xml
+
+url: "https://astroandes.github.io"
+baseurl: ""
+paginate: 20
+per_page: 20
+paginate_path: "/page/:num/"
+markdown: kramdown
+gems:
+  - jekyll-paginate
+  - jekyll-gist
+
+compress_html:
+  clippings: all
+  comments: ["<!-- ", " -->"]
+  endings: all
