@@ -18,9 +18,9 @@ social:
     - icon: fa-facebook
       link: "#"
     - icon: fa-twitter
-      link: "https://twitter.com/agusmakmun6"
+      link: "https://twitter.com/"
     - icon: fa-linkedin
-      link: "https://www.linkedin.com/in/summonagus"
+      link: "https://www.linkedin.com/"
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
@@ -31,8 +31,6 @@ urls:
       url: /about/
     - text: Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
 
 url: "https://astroandes.github.io"
 baseurl: ""
