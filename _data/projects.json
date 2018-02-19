@@ -8,11 +8,11 @@
 		"tags": ["Angular JS","API"]
 	},
 	{
-		"name": "Cool project 2",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "May 2014",
-		"tags": ["Python","Django"]
+		"name": "LG Satellites Alignment",
+		"image": "lg_satellites.jpg",
+		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
+		"date": "February 2018",
+		"tags": ["Galaxies","Satellites"]
 	},
 	{
 		"name": "Cool project 3",
