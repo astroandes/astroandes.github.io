@@ -44,7 +44,6 @@ layout: default
       {% endif %}
     {% endfor %}
   {% else %}
-    <p>AstroAndes' posts:</p>
     {% for post in site.posts %}
       {% capture post_year %}{{ post.date | date: '%Y' }}{% endcapture %}
       {% if forloop.first %}
@@ -57,7 +56,6 @@ layout: default
         {% capture previous_post_year %}{{ site.categories[page.categories][previous_index].date | date: '%Y' }}{% endcapture %}
         {% if post_year != previous_post_year %}
           </div>
-          <h4>{{ post_year }}</h4>
           <div class="list-group">
         {% endif %}
       {% endif %}
