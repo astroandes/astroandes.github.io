@@ -3,12 +3,11 @@
 [https://astroandes.github.io](https://astroandes.github.io)
 
 
-
 ### Install & Configuration
 
 1. Fork this repository
 2. Edit site settings inside file of `_config.yml`
-3. Edit your projects at file of `projects.md`, `_data/projects.json` and inside path of `_project/` _(for detail project)_.
+3. Edit your projects at file of `projects.md`, `_data/projects.json` and inside path of `_project/` _(for detail project)_. The images of projects are in the folder: `static/projects/`.
 4. Edit about yourself inside file of `about.md`
 
 ### How to Use?
