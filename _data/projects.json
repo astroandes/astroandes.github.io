@@ -1,7 +1,7 @@
 [
 	{
 		"slug": "lg_satellites",
-		"name": "LG Satellites Alignment",
+		"name": "Local Group Satellites Alignment",
 		"image": "lg_satellites.png",
 		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
 		"date": "February 2018",
@@ -9,11 +9,19 @@
 	},
 	{
 		"slug": "lya_rotationoutflows",
-		"name": "Lyman-alpha spectra from rotating outflows",
+		"name": "Lyman Alpha spectra from rotating outflows",
 		"image": "lya_rotationoutflows.png",
 		"url": "https://github.com/astroandes/CLARA_RotationOutflows",
 		"date": "February 2018",
 		"tags": ["Galaxies","Lyman Alpha", "Radiative Transfer"]
+	},
+	{
+		"slug": "lya_tololo",
+		"name": "An atypical Lyman Alpha dwarf galaxy",
+		"image": "lya_tololo.png",
+		"url": "https://github.com/astroandes/tololo-lya-fit",
+		"date": "October 2017",
+		"tags": ["Galaxies","Lyman Alpha"]
 	},
 	{
 		"slug": "lg_satellites",
@@ -24,21 +32,19 @@
 		"tags": ["Galaxies","Satellites"]
 	},
 	{
-		"name": "Cool project 4",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"slug": "lya_rotationoutflows",
+		"name": "Lyman Alpha spectra from rotating outflows",
+		"image": "lya_rotationoutflows.png",
+		"url": "https://github.com/astroandes/CLARA_RotationOutflows",
+		"date": "February 2018",
+		"tags": ["Galaxies","Lyman Alpha", "Radiative Transfer"]
 	},
 	{
-		"name": "Cool project 5",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
-	},
-	{
-		"name": "Cool project 6",
-		"image": "placeholder.jpg",
-		"date": "Oct 2016",
-		"tags": ["Python","nodejs"]
+		"slug": "lya_tololo",
+		"name": "An atypical Lyman Alpha dwarf galaxy",
+		"image": "lya_tololo.png",
+		"url": "https://github.com/astroandes/tololo-lya-fit",
+		"date": "October 2017",
+		"tags": ["Galaxies","Lyman Alpha"]
 	}
 ]

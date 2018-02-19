@@ -1,6 +1,6 @@
 ---
 layout: project_single
-title:  "LG Satellites Alignment"
+title:  "Local Group Satellites Alignment"
 slug: "lg_satellites"
 ---
 Description of this project.
