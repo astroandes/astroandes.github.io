@@ -1,25 +1,27 @@
 [
 	{
-		"slug": "cool-project",
-		"name": "Cool project 1",
-		"image": "placeholder.jpg",
-		"url": "https://www.google.com",
-		"date": "Jan 2014",
-		"tags": ["Angular JS","API"]
-	},
-	{
+		"slug": "lg_satellites",
 		"name": "LG Satellites Alignment",
-		"image": "lg_satellites.jpg",
+		"image": "lg_satellites.png",
 		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
 		"date": "February 2018",
 		"tags": ["Galaxies","Satellites"]
 	},
 	{
-		"name": "Cool project 3",
-		"image": "placeholder.jpg",
-		"url": "#",
-		"date": "June 2014",
-		"tags": ["HTML","JQuery","Django"]
+		"slug": "lya_rotationoutflows",
+		"name": "Lyman-alpha spectra from rotating outflows",
+		"image": "lya_rotationoutflows.png",
+		"url": "https://github.com/astroandes/CLARA_RotationOutflows",
+		"date": "February 2018",
+		"tags": ["Galaxies","Lyman Alpha", "Radiative Transfer"]
+	},
+	{
+		"slug": "lg_satellites",
+		"name": "LG Satellites Alignment",
+		"image": "lg_satellites.png",
+		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
+		"date": "February 2018",
+		"tags": ["Galaxies","Satellites"]
 	},
 	{
 		"name": "Cool project 4",
