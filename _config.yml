@@ -31,6 +31,8 @@ urls:
       url: /members/
     - text: Projects
       url: /projects/
+    - text: Posts
+      url: /posts/
 
 url: "https://astroandes.github.io"
 baseurl: ""
