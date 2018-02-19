@@ -25,7 +25,7 @@
 	},
 	{
 		"slug": "lg_satellites",
-		"name": "LG Satellites Alignment",
+		"name": "Local Group Satellites Alignment",
 		"image": "lg_satellites.png",
 		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
 		"date": "February 2018",

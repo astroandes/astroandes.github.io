@@ -1,9 +1,7 @@
 ---
 layout: page
-title: About
+title: Members
 permalink: /about/
 ---
 
-Website for the computational astrophysics research group from Universidad de los Andes (Colombia)
-
-email: astroandes[at]uniandes.edu.co
+We are the members of AstroAndes:
