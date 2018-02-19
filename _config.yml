@@ -28,7 +28,7 @@ social:
 
 urls:
     - text: Members
-      url: /about/
+      url: /members/
     - text: Projects
       url: /projects/
 

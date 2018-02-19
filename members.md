@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Members
-permalink: /about/
+permalink: /members/
 ---
 
 We are the members of AstroAndes:
