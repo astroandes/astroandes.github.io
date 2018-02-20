@@ -15,14 +15,6 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
-    - icon: fa-twitter
-      link: "https://twitter.com/"
-    - icon: fa-linkedin
-      link: "https://www.linkedin.com/"
-    - icon: fa-stack-exchange
-      link: "#"
     - icon: fa-github
       link: "https://github.com/astroandes"
 
