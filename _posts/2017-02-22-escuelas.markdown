@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Escuelas de astrofísica en el 2018"
+date:   2018-02-22 16:53:00 -0500
+categories: [teaching]
+---
+En el 2018 habrá varias escuelas de astrofísica en el país.
