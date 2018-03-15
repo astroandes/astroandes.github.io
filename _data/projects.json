@@ -2,7 +2,7 @@
 	{
 		"slug": "lg_satellites",
 		"name": "Local Group Satellites Alignment",
-		"image": "lg_satellites.png",
+		"image": "im_lg_satellites.png",
 		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
 		"date": "February 2018",
 		"tags": ["Galaxies","Satellites"]
@@ -10,7 +10,7 @@
 	{
 		"slug": "lya_rotationoutflows",
 		"name": "Lyman Alpha spectra from rotating outflows",
-		"image": "lya_rotationoutflows.png",
+		"image": "im_lya_rotationoutflows.png",
 		"url": "https://github.com/astroandes/CLARA_RotationOutflows",
 		"date": "February 2018",
 		"tags": ["Galaxies","Lyman Alpha", "Radiative Transfer"]
@@ -18,33 +18,17 @@
 	{
 		"slug": "lya_tololo",
 		"name": "An atypical Lyman Alpha dwarf galaxy",
-		"image": "lya_tololo.png",
+		"image": "im_lya_tololo.png",
 		"url": "https://github.com/astroandes/tololo-lya-fit",
 		"date": "October 2017",
 		"tags": ["Galaxies","Lyman Alpha"]
 	},
 	{
-		"slug": "lg_satellites",
-		"name": "Local Group Satellites Alignment",
-		"image": "lg_satellites.png",
-		"url": "https://github.com/astroandes/AlineacionesSatelitesLG",
+		"slug": "cw_antiskeleton",
+		"name": "Cosmic Web AntiSkeleton",
+		"image": "im_cw_antiskeleton.png",
+		"url": "https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton",
 		"date": "February 2018",
-		"tags": ["Galaxies","Satellites"]
-	},
-	{
-		"slug": "lya_rotationoutflows",
-		"name": "Lyman Alpha spectra from rotating outflows",
-		"image": "lya_rotationoutflows.png",
-		"url": "https://github.com/astroandes/CLARA_RotationOutflows",
-		"date": "February 2018",
-		"tags": ["Galaxies","Lyman Alpha", "Radiative Transfer"]
-	},
-	{
-		"slug": "lya_tololo",
-		"name": "An atypical Lyman Alpha dwarf galaxy",
-		"image": "lya_tololo.png",
-		"url": "https://github.com/astroandes/tololo-lya-fit",
-		"date": "October 2017",
-		"tags": ["Galaxies","Lyman Alpha"]
+		"tags": ["Cosmic Web", "Large Scale Universe"]
 	}
 ]
