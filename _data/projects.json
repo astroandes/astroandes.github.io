@@ -30,5 +30,19 @@
 		"url": "https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton",
 		"date": "February 2018",
 		"tags": ["Cosmic Web", "Large Scale Universe"]
+	},
+	{
+		"slug": "ab_spectralmonitoring",
+		"name": "Spectral Monitoring of AB Aur",
+		"image": "no_image.jpg",
+		"date": "February 2018",
+		"tags": ["Stars"]
+	},
+	{
+		"slug": "ant_spectralvariations",
+		"name": "Study of the spectral variations in Antares",
+		"image": "no_image.jpg",
+		"date": "February 2018",
+		"tags": ["Stars"]
 	}
 ]
