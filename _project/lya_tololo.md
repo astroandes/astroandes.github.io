@@ -13,7 +13,7 @@ so far. In this paper we reproduce for the first time these line features with
 two different physically motivated kinematic models: an interstellar medium
 composed by outflowing clumps with random motions and an homogeneous gaseous
 sphere undergoing solid body rotation. The multiphase model requires a clump
-velocity dispersion of \sigmaclump\ with outflows of \inftyclump\, while the
+velocity dispersion of 54.3 ± 0.6 km/s with outflows of 54.3 ± 5.1 km/s, while the
 bulk rotation velocity is constrained to be 348 +75 -48 km/s. We argue that the
 results from the multiphase model provide a correct interpretation of the data.
 In that case the clump velocity dispersion implies a dynamical mass of
