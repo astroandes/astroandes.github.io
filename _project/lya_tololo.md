@@ -34,7 +34,7 @@ generation of Lyman Alpha emitting galaxies.
 * Mark Dijkstra
 
 <center>
-  <a href="https://arxiv.org/abs/1710.05534">ARXIV</a> <a href="https://ui.adsabs.harvard.edu/?#abs/2018MNRAS.474...12F">ADS</a>
-  </br>
+  <a href="https://arxiv.org/abs/1710.05534">VIEW ON ARXIV</a> |
+  <a href="https://ui.adsabs.harvard.edu/?#abs/2018MNRAS.474...12F">VIEW ON ADS</a> |
   <a href="https://github.com/astroandes/tololo-lya-fit">VIEW ON GITHUB</a>
 </center>

@@ -10,6 +10,10 @@ points and eventually main structures, such as filaments or clusters. This in
 order to compare its main structure and evolution with astrophysical systems
 and large-scale structures.
 
+**Authors:**
+
+* David Paipa
+
 <center>
   <a href="https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton">VIEW ON GITHUB</a>
 </center>
