@@ -3,6 +3,7 @@ layout: project_single
 title:  "An atypical Lyman Alpha dwarf galaxy"
 slug: "lya_tololo"
 ---
+*Abstract:*
 Star-forming Compact Dwarf Galaxies (CDGs) resemble the expected pristine
 conditions of the first galaxies in the Universe and are the best systems to
 test models on primordial galaxy formation and evolution. Here we report on one
@@ -22,3 +23,15 @@ it would provide additional support to expect such kinematic state in primordial
 galaxies, opening the opportunity to use the models and methods presented in this
 paper to constrain the physics of star formation and feedback in the early
 generation of Lyman Alpha emitting galaxies.
+
+*Authors:*
+* Jaime E. Forero-Romero
+* Max Gronke
+* Maria Camila Remolina-Gutiérrez
+* Nicolás Garavito-Camargo
+* Mark Dijkstra
+
+<center>
+[ARXIV](https://arxiv.org/abs/1710.05534) [ADS](https://ui.adsabs.harvard.edu/?#abs/2018MNRAS.474...12F)
+[VIEW ON GITHUB](https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton)
+</center>

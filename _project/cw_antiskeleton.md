@@ -9,5 +9,5 @@ order to compare its main structure and evolution with astrophysical systems
 and large-scale structures.
 
 <center>
-[*VIEW ON GITHUB*](https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton)
+[VIEW ON GITHUB](https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton)
 </center>
