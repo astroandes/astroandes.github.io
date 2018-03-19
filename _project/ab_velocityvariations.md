@@ -1,7 +1,7 @@
 ---
 layout: project_single
-title:  "Spectral Monitoring of AB Aur"
-slug: "ab_spectralmonitoring"
+title:  "Velocity variations in AB Aur"
+slug: "ab_velocityvariations"
 ---
 **Abstract:**
 

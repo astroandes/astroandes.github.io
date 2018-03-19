@@ -32,17 +32,17 @@
 		"tags": ["Cosmic Web", "Large Scale Universe"]
 	},
 	{
-		"slug": "ab_spectralmonitoring",
+		"slug": "ab_velocityvariations",
 		"name": "Spectral Monitoring of AB Aur",
-		"image": "no_image.jpg",
+		"image": "im_ab_velocityvariations.jpg",
 		"date": "February 2018",
-		"tags": ["Stars"]
+		"tags": ["Stars", "Star Formation", "Spectroscopy"]
 	},
 	{
 		"slug": "ant_spectralvariations",
 		"name": "Study of the spectral variations in Antares",
-		"image": "no_image.jpg",
+		"image": "im_ant_spectralvariations.jpg",
 		"date": "February 2018",
-		"tags": ["Stars"]
+		"tags": ["Giant Stars", "Granulation", "Spectroscopy"]
 	}
 ]
