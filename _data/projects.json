@@ -34,15 +34,15 @@
 	{
 		"slug": "ab_velocityvariations",
 		"name": "Spectral Monitoring of AB Aur",
-		"image": "im_ab_velocityvariations.jpg",
+		"image": "im_ab_velocityvariations.png",
 		"date": "February 2018",
 		"tags": ["Stars", "Star Formation", "Spectroscopy"]
 	},
 	{
 		"slug": "ant_spectralvariations",
 		"name": "Study of the spectral variations in Antares",
-		"image": "im_ant_spectralvariations.jpg",
+		"image": "im_ant_spectralvariations.png",
 		"date": "February 2018",
-		"tags": ["Giant Stars", "Granulation", "Spectroscopy"]
+		"tags": ["Stars", "Granulation", "Spectroscopy"]
 	}
 ]
