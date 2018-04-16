@@ -93,6 +93,7 @@ div.col-sm-3 strong {
   font-weight: normal;
 }
 div.col-sm-3 div.profile-about {
+  font-size: 16px;
   margin-top: 10px;
   color: #8C8C8C;
 }
