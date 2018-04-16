@@ -9,10 +9,12 @@ layout: default
 
   <div class="post-content">
     {{ content }}
-
+    <br/>
     {% assign p_array = "" | split:"|"  %}
-    {% for project in site.project %}
-      {% capture p_slug %}{{ project.url | split:"/" | last }},{{ project.url }}{% endcapture %}
+    {% for project in site.member %}
+      {% capture p_slug %}
+        {{ project.url | split:"/" | last }},{{ project.url }}
+      {% endcapture %}
       {% assign p_slug_arr = p_slug | split:"," %}
       {% assign p_array = p_array | push: p_slug_arr  %}
     {% endfor %}
