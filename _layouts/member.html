@@ -35,7 +35,7 @@ layout: default
           {% endfor %}
 
           {% if p_url == nil %}
-            {% assign p_url = i.url %}
+            {% assign p_url = i.slug %}
           {% endif %}
           {% if p_url %}
             <a class="project-detail" href="{{ p_url }}">
