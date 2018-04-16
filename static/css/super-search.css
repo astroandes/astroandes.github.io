@@ -4,7 +4,7 @@
 */
 
 input#js-search__input {
-  font-size: 12px;
+  font-size: 14px;
   font-family: "Roboto Condensed", Arial, sans-serif;
 }
 .is-active .search__input {
