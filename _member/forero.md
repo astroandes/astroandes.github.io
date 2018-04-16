@@ -1,6 +1,6 @@
 ---
 layout: member_single
-title:  "Jaime E. Forero-Romero"
+title:  "Jaime Ernesto Forero-Romero"
 slug: "forero"
 ---
 **Bio:**
