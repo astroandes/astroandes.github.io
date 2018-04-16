@@ -14,10 +14,6 @@ collections:
     output: true
     permalink: /project/:path/
 
-social:
-    - icon: fa-github
-      link: "https://github.com/astroandes"
-
 urls:
     - text: Members
       url: /members/
