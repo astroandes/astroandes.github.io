@@ -10,4 +10,4 @@ Computational galaxy formation and cosmology. Python aficionado.
 
 **Links:**
 
-* Luisa Rodriguez
+* <a href="https://github.com/forero">GitHub</a>
