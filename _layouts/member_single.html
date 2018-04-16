@@ -1,0 +1,22 @@
+---
+layout: default
+---
+<article class="post">
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="content">
+    {% for project in site.data.projects %}
+      {% if project.slug == page.slug %}
+        <a href="/static/members/{{ project.image }}" class="thickbox">
+          <center>
+            <img src="/static/members/{{ project.image }}" alt="{{ page.title }}" title="{{ page.title }}" height="350px">
+          </center>
+        </a>
+      {% endif %}
+    {% endfor %}
+    <hr />
+    {{ content }}
+  </div>
+</article>
