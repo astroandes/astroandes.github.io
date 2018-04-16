@@ -1,5 +1,5 @@
 ---
-layout: project_single
+layout: member_single
 title:  "Jaime E. Forero-Romero"
 slug: "forero"
 ---

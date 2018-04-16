@@ -6,17 +6,15 @@
 		"url": "http://wwwprof.uniandes.edu.co/~je.forero/"
 	},
 	{
-		"slug": "forero",
-		"name": "Jaime E. Forero-Romero",
-		"image": "forero.jpeg",
-		"url": "http://wwwprof.uniandes.edu.co/~je.forero/",
-		"github": "https://github.com/forero",
+		"slug": "mariacamilaremolinagutierrez",
+		"name": "Maria Camila Remolina Gutiérrez",
+		"image": "mariacamilaremolinagutierrez.png",
+		"url": "https://mariacamilarg.me/",
 	},
 	{
 		"slug": "forero",
 		"name": "Jaime E. Forero-Romero",
 		"image": "forero.jpeg",
 		"url": "http://wwwprof.uniandes.edu.co/~je.forero/",
-		"github": "https://github.com/forero",
 	}
 ]
