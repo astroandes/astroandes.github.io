@@ -16,5 +16,32 @@
 		"name": "Juan Nicolas Garavito-Camargo",
 		"image": "jngaravitoc.jpg",
 		"url": "http://jngaravitoc.github.io/Garavito-Camargo/",
+	},
+	{
+		"slug": "flgomezc",
+		"name": "Felipe Leonardo Gómez-Cortés",
+		"image": "flgomezc.jpg",
+		"url": "https://github.com/flgomezc"
+	},
+	{
+		"slug": "veronicaarias",
+		"name": "Veronica Arias",
+		"image": "veronicaarias.jpg"
+	},
+	{
+		"slug": "luisarodriguez",
+		"name": "Luisa Rodriguez",
+		"image": "luisarodriguez.jpg"
+	},
+	{
+		"slug": "sercharpak",
+		"name": "Sergio Hernandez Charpak",
+		"image": "sercharpak.png",
+		"url": "https://github.com/sercharpak/"
+	},
+	{
+		"slug": "davidpaipa",
+		"name": "David Paipa",
+		"image": "davidpaipa.jpg"
 	}
 ]
