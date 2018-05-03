@@ -1,4 +1,4 @@
-## Website for AstroAndes Research Group @ Uniandes
+## Website for AstroAndes Research Group @ Uniandes, COlombia
 
 [https://astroandes.github.io](https://astroandes.github.io)
 
