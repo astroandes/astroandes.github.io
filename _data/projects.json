@@ -44,5 +44,17 @@
 		"image": "im_ant_spectralvariations.png",
 		"date": "February 2018",
 		"tags": ["Stars", "Granulation", "Spectroscopy"]
-	}
+	},
+	{
+		"slug": "dm_collisional",
+		"name": "Simulation of collisional dark matter",
+		"image": "im_dm_collisional.png",
+		"date": "June 2018",
+		"tags": ["Dark Matter", "Lattice Boltzmann"]
+
+	}	
 ]
+
+
+
+
