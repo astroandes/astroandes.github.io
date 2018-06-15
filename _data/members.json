@@ -43,5 +43,11 @@
 		"slug": "davidpaipa",
 		"name": "David Paipa",
 		"image": "davidpaipa.jpg"
+	},
+	{
+		"slug": "javieracevedo",
+		"name": "Javier Alejandro Acevedo",
+		"image": "javieracevedo.jpeg",
+		"url": "https://github.com/ClarkGuilty"
 	}
 ]
