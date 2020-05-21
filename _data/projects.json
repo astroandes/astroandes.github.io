@@ -3,7 +3,7 @@
 		"slug": "desi_survey",
 		"name": "DESI: Dark Energy Spectroscopic Instrument",
 		"image": "im_desi_survey.jpeg",
-		"url": "https://github.com/astroandes/desi_survey",
+		"url": "https://astroandes.github.io/project/desi_survey",
 		"date": "May 2020",
 		"tags": ["Dark Energy","Universe Survey"]
 	},
@@ -11,7 +11,7 @@
 		"slug": "cw_bsk",
 		"name": "Predicting the T-Web using the beta-skeleton",
 		"image": "im_cw_bsk.png",
-		"url": "https://github.com/astroandes/cw_bsk",
+		"url": "https://astroandes.github.io/project/cw_bsk",
 		"date": "May 2020",
 		"tags": ["β-skeleton","Cosmic Web","Large Scale"]
 	},
@@ -19,7 +19,7 @@
 		"slug": "cw_graph_entropy",
 		"name": "The cosmic web through the lens of graph entropy",
 		"image": "im_cw_graph_entropy.png",
-		"url": "https://github.com/astroandes/cw_graph_entropy",
+		"url": "https://astroandes.github.io/project/cw_graph_entropy",
 		"date": "May 2020",
 		"tags": ["β-skeleton","Cosmic Web","Large Scale"]
 	},
@@ -27,7 +27,7 @@
 		"slug": "cw_voids_cosmological",
 		"name": "Finding bounds for the cosmological parameters using cosmic voids",
 		"image": "im_cw_voids_cosmological.jpeg",
-		"url": "https://github.com/astroandes/cw_voids_cosmological",
+		"url": "https://astroandes.github.io/project/cw_voids_cosmological",
 		"date": "May 2020",
 		"tags": ["β-skeleton","Cosmic Web","Cosmic Void"]
 	},
@@ -35,7 +35,7 @@
 		"slug": "cw_complexity",
 		"name": "The complexity of the cosmic web graph",
 		"image": "im_cw_complexity.png",
-		"url": "https://github.com/astroandes/cw_complexity",
+		"url": "https://astroandes.github.io/project/cw_complexity",
 		"date": "May 2020",
 		"tags": ["Cosmic Web","Large Scale","β-skeleton"]
 	},
@@ -43,7 +43,7 @@
 		"slug": "ls_laniakea_cosmo",
 		"name": "Laniakea supercluster in a cosmological context",
 		"image": "im_ls_laniakea_cosmo.png",
-		"url": "https://github.com/astroandes/ls_laniakea_cosmo",
+		"url": "https://astroandes.github.io/project/ls_laniakea_cosmo",
 		"date": "May 2020",
 		"tags": ["Large Scale","Laniakea"]
 	},
