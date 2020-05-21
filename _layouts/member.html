@@ -40,16 +40,16 @@ layout: default
           {% if p_url %}
             <a class="project-detail" href="{{ i.url }}">
           {% endif %}
-            <h3 class="project-headlines">{{ i.name }}</h3>
+            <h3 class="project-headlines"><i class="fa fa-globe"></i> {{ i.name }}</h3>
           {% if p_url %}
             </a>
           {% endif %}
 
-          <div class="project-footer">
+          <!--<div class="project-footer">
             {% if i.url %}
               <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
             {% endif %}
-          </div>
+          </div> -->
         </div>
         <hr>
       </div>
@@ -77,18 +77,18 @@ layout: default
             {% assign p_url = i.slug %}
           {% endif %}
           {% if p_url %}
-            <a class="project-detail" href="{{ p_url }}">
+            <a class="project-detail" href="{{ i.url }}">
           {% endif %}
-            <h3 class="project-headlines">{{ i.name }}</h3>
+            <h3 class="project-headlines"><i class="fa fa-globe"></i> {{ i.name }}</h3>
           {% if p_url %}
             </a>
           {% endif %}
 
-          <div class="project-footer">
+          <!-- <div class="project-footer">
             {% if i.url %}
               <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
             {% endif %}
-          </div>
+          </div> -->
         </div>
         <hr>
       </div>
