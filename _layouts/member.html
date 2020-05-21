@@ -21,7 +21,46 @@ layout: default
 
     <div class="projects">
 
-      {% for i in site.data.members %}
+      {% for i in site.data.memberscurrent %}
+      <div class="project-item project-outer">
+        <div class="project-inner">
+          <a href="/static/members/{{ i.image }}" class="thickbox">
+            <div class="project-img bordered" style="background-image: url('/static/members/{{ i.image }}');"></div>
+          </a>
+          {% assign p_url = nil %}
+          {% for pr in p_array %}
+            {% if pr contains i.slug %}
+              {% assign p_url = pr[1] %}
+            {% endif %}
+          {% endfor %}
+
+          {% if p_url == nil %}
+            {% assign p_url = i.slug %}
+          {% endif %}
+          {% if p_url %}
+            <a class="project-detail" href="{{ p_url }}">
+          {% endif %}
+            <h3 class="project-headlines">{{ i.name }}</h3>
+          {% if p_url %}
+            </a>
+          {% endif %}
+
+          <div class="project-footer">
+            {% if i.url %}
+              <a href="{{ i.url }}" class="project-link" target="_blank"><i class="fa fa-globe"></i> View</a>
+            {% endif %}
+          </div>
+        </div>
+        <hr>
+      </div>
+      {% endfor %}
+    </div>
+
+    <h3 class="post-title">{{ page.subtitle }}</h1>
+    <hr />
+    <div class="projects">
+
+      {% for i in site.data.membersold %}
       <div class="project-item project-outer">
         <div class="project-inner">
           <a href="/static/members/{{ i.image }}" class="thickbox">

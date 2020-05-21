@@ -1,6 +1,7 @@
 ---
 layout: member
 title: Members
+subtitle: Former Members
 permalink: /members/
 ---
 

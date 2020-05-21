@@ -1,0 +1,44 @@
+[
+	{
+		"slug": "forero",
+		"name": "Jaime Ernesto Forero-Romero",
+		"image": "forero.jpeg",
+		"url": "http://wwwprof.uniandes.edu.co/~je.forero/"
+	},
+	{
+		"slug": "davidsierra",
+		"name": "David Sierra Porta",
+		"image": "davidsierra.jpg",
+		"url": "http://sierraporta.github.io/"
+	},
+	{
+		"slug": "johnsuarez",
+		"name": "John F. Suárez-Pérez",
+		"image": "johnsuarez.jpg",
+		"url": "https://jsuarez314.gitlab.io/"
+	},
+	{
+		"slug": "valentinagarcia",
+		"name": "Maria Valentina García Alvarado",
+		"image": "valentinagarcia.jpg",
+		"url": "https://github.com/mvgarcia"
+	},
+	{
+		"slug": "carloscordoba",
+		"name": "Carlos Miguel Córdoba Caycedo",
+		"image": "carloscordoba.jpeg",
+		"url": "https://github.com/CharlesCo12"
+	},
+	{
+		"slug": "diegotorres",
+		"name": "Diego Andrés Torres Guarín",
+		"image": "diegotorres.jpg",
+		"url": "https://github.com/diegotg2000"
+	},
+	{
+		"slug": "davidpenaranda",
+		"name": "Jose David Peñaranda Rivera",
+		"image": "davidpenaranda.jpg",
+		"url": "https://github.com/Jose991019"
+	}
+]
