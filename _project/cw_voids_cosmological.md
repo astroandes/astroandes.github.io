@@ -12,5 +12,5 @@ Using the beta skeleton to analyze the geometric response of cosmic voids to var
 * Carlos Córdoba
 
 <center>
-  <a href="https://github.com/CharlesCo12/VoidPaper">VIEW</a>
+  <a href="https://github.com/CharlesCo12/VoidPaper">VIEW ON GITHUB</a>
 </center>

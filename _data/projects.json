@@ -64,12 +64,12 @@
 		"tags": ["Galaxies","Lyman Alpha", "Radiative Transfer"]
 	},
 	{
-		"slug": "cw_antiskeleton",
-		"name": "Cosmic Web AntiSkeleton",
-		"image": "im_cw_antiskeleton.png",
-		"url": "https://github.com/PaipaPsyche/Cosmic-Web-AntiSkeleton",
+		"slug": "sc_characterization",
+		"name": "Supercluster characterization in cosmological simulations",
+		"image": "im_sc_characterization.gif",
+		"url": "https://github.com/PaipaPsyche/SuperClusterCharacterization",
 		"date": "February 2018",
-		"tags": ["Cosmic Web", "Large Scale Universe"]
+		"tags": ["Large Scale Universe", "Supercluster", "Galaxies"]
 	},
 	{
 		"slug": "ab_velocityvariations",

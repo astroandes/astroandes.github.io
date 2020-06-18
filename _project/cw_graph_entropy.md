@@ -12,5 +12,5 @@ We explore the information theory entropy of a graph as a scalar to quantify the
 * Valentina García
 
 <center>
-  <a href="https://github.com/mvgarcia/Skeleton">VIEW</a>
+  <a href="https://github.com/mvgarcia/Skeleton">VIEW ON GITHUB</a>
 </center>
