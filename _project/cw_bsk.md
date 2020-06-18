@@ -14,5 +14,5 @@ We will present preliminary results for our reconstruction efforts based on Illu
 * John Suárez
 
 <center>
-  <a href="https://gitlab.com/jsuarez314/beta-skeleton">VIEW ON GITHUB</a>
+  <a href="https://gitlab.com/jsuarez314/beta-skeleton">VIEW ON GITLAB</a>
 </center>
