@@ -13,5 +13,6 @@ We explore the information theory entropy of a graph as a scalar to quantify the
 
 <center>
   <a href="https://github.com/mvgarcia/Skeleton">VIEW ON GITHUB</a>
-  <a href="https://arxiv.org/abs/2008.08164"VIEW ON ARXIV</a>
+  <br>
+  <a href="https://arxiv.org/abs/2008.08164">VIEW ON ARXIV</a>
 </center>
