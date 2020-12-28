@@ -14,4 +14,5 @@ Galaxy superclusters can be defined as regions of converging galaxy velocity flo
 <center>
   <a href="https://github.com/Jose991019/LaniakeaAnalysis">VIEW ON GITHUB</a>|
   <a href="https://www.youtube.com/watch?v=vEf-RsvMVYc">VIEW ON YOUTUBE</a>
+  <a href="https://arxiv.org/abs/2010.05160">VIEW ON ARXIV</a>
 </center>
