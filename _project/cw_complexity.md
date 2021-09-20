@@ -12,6 +12,7 @@ We explore complexity as a measure of structure for the cosmic web. We found a s
 * David Torres
 
 <center>
-  <a href="https://github.com/diegotg2000/DiegoAstro">VIEW ON GITHUB</a>|
+  <a href="https://github.com/diegotg2000/DiegoAstro">VIEW ON GITHUB</a>
+  <br>
   <a href="https://www.youtube.com/watch?v=w3B5M0HaQag">VIEW ON YOUTUBE</a>
 </center>

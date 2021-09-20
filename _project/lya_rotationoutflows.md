@@ -21,8 +21,9 @@ velocity of a high redshift galaxy based on its integrated Lyman-Alpha emission.
 **Authors:**
 
 * Maria Camila Remolina-Gutiérrez
-* Jaime E. Forero-Romero
 
 <center>
   <a href="https://github.com/astroandes/CLARA_RotationOutflows">VIEW ON GITHUB</a>
+  <br>
+  <a href="https://arxiv.org/pdf/1811.01266">VIEW ON ARXIV</a>
 </center>

@@ -14,8 +14,12 @@ mass in the framework of cosmological simulations.
 
 **Authors:**
 
+* José David Peñaranda
 * David Paipa
 
 <center>
   <a href="https://github.com/PaipaPsyche/SuperClusterCharacterization">VIEW ON GITHUB</a>
+  <br>
+  <a href="https://arxiv.org/pdf/2010.05160">VIEW ON ARXIV</a>
+  
 </center>

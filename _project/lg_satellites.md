@@ -29,9 +29,10 @@ around LG pairs in simulations.
 
 **Authors:**
 
-* Jaime E. Forero-Romero
 * Veronica Arias
 
 <center>
   <a href="https://github.com/astroandes/SatelliteShapeLG">VIEW ON GITHUB</a>
+  <br>
+  <a href="https://arxiv.org/pdf/1805.03188">VIEW ON ARXIV</a>
 </center>
